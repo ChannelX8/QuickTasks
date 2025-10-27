@@ -1,0 +1,8 @@
+{
+  "name": "QuickTasks",
+  "description": "QuickTasks is a small, production-ready React + Tailwind todo application that helps you manage your tasks with priorities, due dates, and filtering. It features a clean, dark-mode-ready UI and persists your data in local storage.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
